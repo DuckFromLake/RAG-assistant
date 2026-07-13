@@ -1,3 +1,3 @@
 # RAG-assistant
 
-LOL
+LOL2
