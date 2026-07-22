@@ -1,5 +1,4 @@
 import re
-from typing import List
 
 STOP_WORDS = {
     'и', 'в', 'во', 'не', 'что', 'он', 'на', 'я', 'с', 'со', 'как',
