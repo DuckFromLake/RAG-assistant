@@ -1,8 +1,5 @@
-Авторы:
-
+Автор:
 Матяшов Максим - https://github.com/DuckFromLake
-
-Селезнёва Вероника - https://github.com/Sveronicka-stack
 
 
 
