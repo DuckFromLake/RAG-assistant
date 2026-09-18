@@ -1,5 +1,5 @@
 Автор:
-Матяшов Максим - https://github.com/DuckFromLake
+Матяшов Максим
 
 
 
